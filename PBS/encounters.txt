@@ -309,3 +309,18 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#------------------------------
+[22] # Game_dev
+	Land,21
+	90,PIKACHU,5,8
+	1,MEW,5,8
+	1,CELEBI,5,8
+	1,RALTS,5,8
+	1,GROWLITHE,5,8
+	1,VULPIX_1,5,8
+	1,CROAGUNK,5,8
+	1,CHARMANDER,5,8
+	1,EEVEE,5,8
+	1,TRAPINCH,5,8
+	1,JIRACHI,5,8
+	
