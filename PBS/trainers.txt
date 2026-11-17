@@ -116,14 +116,3 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
-#-------------------------------
-[LASS,Merchant]
-LoseText = HOW DID YOU BEAT ME?!
-Pokemon = CHARMANDER,5
-    Moves = EMBER, GROWL, SCRATCH, TAILWHIP
-    AbilityIndex = 0
-    Item = SITRUSBERRY
-    Gender = male
-    IV = 31,31,31,31,31,31
-    Shiny = true
-    Ball = HEAVYBALL
