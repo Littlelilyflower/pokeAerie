@@ -106,7 +106,7 @@ MapSize = 1,11
 Name = Game_dev
 Outdoor = true
 ShowArea = true
-BattleBack = fairytale_base0
+BattleBack = fairytale
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
